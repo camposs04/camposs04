@@ -1,5 +1,5 @@
-<h1 align="center" style="color: #EB9326">[Júlia Santana Campos]</h1>
-<p align="center">Sou conhecido por <b style="color: #EB9326">[Campos]</b> e faço parte da equipe de robótica <b>Titans</b>, trabalhando com robôs de luta, VSSS e SSL.</p>
+<h1 align="center" style="color: #EB9326">Júlia Santana Campos</h1>
+<p align="center">Sou conhecida por <b style="color: #EB9326">Campos</b> e faço parte da equipe de robótica <b>Titans</b>, trabalhando com robôs de luta, VSSS e SSL.</p>
 
 <h2 align="center"> 🔌 Conecte-se comigo / Connect with me </h2>
 
@@ -17,10 +17,10 @@
 🔹 Sou apaixonada por robótica e tecnologia, sempre buscando inovação e novos desafios.
 </p>
 <p>
-🔹 Trabalho com desenvolvimento e otimização de robôs na equipe **Titans**, focando em estratégias para robôs de luta, VSSS e SSL.
+🔹 Trabalho com desenvolvimento e otimização de robôs na equipe <b>Titans</b>, focando em estratégias para robôs de luta, VSSS e SSL.
 </p>
 <p>
-🔹 Gosto de programar em **C++, Python e ROS**, além de explorar visão computacional e sistemas embarcados.
+🔹 Gosto de programar em <b>C++, Python e ROS</b>, além de explorar visão computacional e sistemas embarcados.
 </p>
 <p>
 🔹 Tenho grande interesse em eletrônica e automação, sempre buscando aprender e aplicar novos conhecimentos.
@@ -32,10 +32,10 @@
 🔹 I am passionate about robotics and technology, always looking for innovation and new challenges.
 </p>
 <p>
-🔹 I work on the development and optimization of robots in the **Titans** team, focusing on strategies for combat robots, VSSS, and SSL.
+🔹 I work on the development and optimization of robots in the <b>Titans</b> team, focusing on strategies for combat robots, VSSS, and SSL.
 </p>
 <p>
-🔹 I enjoy programming in **C++, Python, and ROS**, as well as exploring computer vision and embedded systems.
+🔹 I enjoy programming in <b>C++, Python, and ROS</b>, as well as exploring computer vision and embedded systems.
 </p>
 <p>
 🔹 I have a great interest in electronics and automation, always seeking to learn and apply new knowledge.
@@ -72,9 +72,9 @@
 <h2 align="center"> 📖 Cursos e Bootcamps </h2>
 
 <div align="center">
-• Versionamento de Código com Git e GitHub
-• Introdução a Inteligência Artificial Aplicada a Dados com a Heineken
-• Básico Sobre o funcionamento do computador
+• Versionamento de Código com Git e GitHub  
+• Introdução à Inteligência Artificial Aplicada a Dados com a Heineken  
+• Básico sobre o funcionamento do computador  
 </div>
 
 <h2 align="center"> 📱 Redes sociais / Social media </h2>
