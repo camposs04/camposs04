@@ -72,9 +72,9 @@
 <h2 align="center"> 📖 Cursos e Bootcamps </h2>
 
 <div align="center">
-• [Versionamento de Código com Git e GitHub]
-• [Introdução a Inteligência Artificial Aplicada a Dados com a Heineken]
-• [Básico Sobre o funcionamento do computador]
+• Versionamento de Código com Git e GitHub
+• Introdução a Inteligência Artificial Aplicada a Dados com a Heineken
+• Básico Sobre o funcionamento do computador
 </div>
 
 <h2 align="center"> 📱 Redes sociais / Social media </h2>
